@@ -1,0 +1,5 @@
+{
+	"name":"Example Name",
+	"data":{"minecraft:example":{}},
+	"priority":0
+}
