@@ -49,6 +49,6 @@ You can also load packs, bringing up an overview page with a handy list of all e
 To add a new component you can import is very simple
 1. Create a new JSON file in "/assets/imports/" in the folder with your byHaviour.exe file.
 2. Copy the template found [here](importTemplate.json).
-3. Change the value of "name" to the name you want in the imports menu
-4. Change the value of "data" to the component(s)
-5. Change the value of "priority" depending where you want it in the imports menu
+3. Change the value of "name" to the name you want in the imports menu.
+4. Change the value of "data" to the component(s).
+5. Change the value of "priority" depending where you want it in the imports menu.
