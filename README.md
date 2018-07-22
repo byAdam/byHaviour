@@ -28,7 +28,7 @@ You can also load packs, bringing up an overview page with a handy list of all e
  
  - **Light and Dark Theme**
    - A light, vibrant theme for those excited to create behaviour packs!
-   - A dark theme for Marketplace mechanics.
+   - A dark theme for those who have created behaviour packs before.
    
  - **Prewritten Components**
    - Press a button or use shortcuts to import prewritten components into your files.
