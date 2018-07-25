@@ -23,6 +23,7 @@ You can also load packs, bringing up an overview page with a handy list of all e
    - Highlight keywords in your file.
    - Copy and directly paste JSON into the editor.
    - Reorder objects and interact with the editor using shortcuts.
+   - Comments! Imports and exports Minecrafts // comment syntax
  
  - **Behaviour Pack Overview Tab**
    - Change the pack icon and edit the manifest file.
