@@ -1,6 +1,6 @@
 # byHaviour
 
-## Download Latest: [v1.0](../../releases/tag/1)
+## Download Latest: [v1.0](../../releases/tag/1) (Windows)
 
 ## What is it?
 byHaviour is a free **Minecraft:Bedrock Edition Behaviour Pack Editor** written in Python. You can edit everything within Behaviour Packs with a clean minimalist interface. 
