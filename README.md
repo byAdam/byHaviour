@@ -1,6 +1,6 @@
 # byHaviour
 
-## Download Latest: [v1.1](../../releases/tag/2) (Windows)
+## Download Latest: [v1.2](../../releases/tag/3) (Windows)
 
 ## What is it?
 byHaviour is a free **Minecraft:Bedrock Edition Behaviour Pack Editor** written in Python. You can edit everything within Behaviour Packs with a clean minimalist interface. 
@@ -15,7 +15,7 @@ You can also load packs, bringing up an overview page with a handy list of all e
 ## Features
  - **Smart and Dynamic Suggestions**
    - Components, Subcomponents, Filters, Condition, Functions, Loot, Trades all autocomplete.
-   - Suggests component groups and events referenced elsewhere in the file.
+   - Suggests component groups and events referenced elsewhere in the file or pack.
    - Builtin lists of items, blocks and entities.
  
  - **Simple but Powerful Editor**
@@ -23,7 +23,9 @@ You can also load packs, bringing up an overview page with a handy list of all e
    - Highlight keywords in your file.
    - Copy and directly paste JSON into the editor.
    - Reorder objects and interact with the editor using shortcuts.
-   - Comments! Imports and exports Minecrafts // comment syntax
+   - Comments! Imports and exports Minecratt's // comment syntax.
+   - Querying! Query the documentation for information about the chosen component.
+   - Save, Rename and Delete files all from within the editor.
  
  - **Behaviour Pack Overview Tab**
    - Change the pack icon and edit the manifest file.
@@ -48,6 +50,9 @@ You can also load packs, bringing up an overview page with a handy list of all e
 ![Dark Editor](https://github.com/byAdam/byHaviour/blob/master/images/editorDark.png)
 ![Light Suggestions](https://github.com/byAdam/byHaviour/blob/master/images/suggestionLight.png)
 ![Dark Suggestions](https://github.com/byAdam/byHaviour/blob/master/images/suggestionDark.png)
+### Querying
+![Light Query](https://github.com/byAdam/byHaviour/blob/master/images/queryLight.png)
+![Dark Query](https://github.com/byAdam/byHaviour/blob/master/images/queryDark.png)
 
 ## Prewritten Components
 To add a new component you can import is very simple
