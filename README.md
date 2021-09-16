@@ -1,6 +1,6 @@
 # byHaviour
 
-## Download Latest: [v1.4](../../releases/tag/5) (Windows)
+## byHaviour has been discontinued since 2018, so I *highly recommend* you use [Bridge.](https://bridge-core.app/) instead
 
 ## What is it?
 byHaviour is a free **Minecraft:Bedrock Edition Behaviour Pack Editor** written in Python. You can edit everything within Behaviour Packs with a clean minimalist interface. 
